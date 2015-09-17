@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="venus" size="274.000000 176.869141" />
+    <ImageTarget name="bacco" size="274.000000 180.057144" />
+    <ImageTarget name="starry" size="274.000000 217.059372" />
+  </Tracking>
+</QCARConfig>
