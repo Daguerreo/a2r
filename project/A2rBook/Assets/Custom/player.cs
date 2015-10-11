@@ -102,7 +102,7 @@ public class player : MonoBehaviour {
 				{	
 				transform.Translate(0, 0, 0);
 				anim.SetInteger ("AnimParameter", 2);//taunt
-				if(frame%25==0)source.Play();
+				if(frame%(45+10)==0) source.Play();
 			} 
 
 			if (secbyframe >= 8 && secbyframe < 10) 
