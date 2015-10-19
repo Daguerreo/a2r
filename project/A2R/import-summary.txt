@@ -1,0 +1,313 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .idea\
+* .idea\.name
+* .idea\compiler.xml
+* .idea\copyright\
+* .idea\copyright\profiles_settings.xml
+* .idea\misc.xml
+* .idea\modules.xml
+* .idea\vcs.xml
+* .idea\workspace.xml
+* app\
+* app\build.gradle
+* app\libs\
+* app\libs\QCARUnityPlayer.jar
+* app\libs\UltimateAndroidPlugin.jar
+* app\libs\Vuforia.jar
+* app\libs\VuforiaMedia.jar
+* app\libs\unity-classes.jar
+* app\src\
+* app\src\main\
+* app\src\main\AndroidManifest.xml
+* app\src\main\assets\
+* app\src\main\assets\QCAR\
+* app\src\main\assets\QCAR\A2R-Books.dat
+* app\src\main\assets\QCAR\A2R-Books.xml
+* app\src\main\assets\QCAR\A2R-Paintings-1-0.dat
+* app\src\main\assets\QCAR\A2R-Paintings-1-0.xml
+* app\src\main\assets\QCAR\A2R-Paintings-1-1.dat
+* app\src\main\assets\QCAR\A2R-Paintings-1-1.xml
+* app\src\main\assets\QCAR\A2R-Paintings-1-2.dat
+* app\src\main\assets\QCAR\A2R-Paintings-1-2.xml
+* app\src\main\assets\QCAR\Paintings.dat
+* app\src\main\assets\QCAR\Paintings.xml
+* app\src\main\assets\QCAR\StonesAndChips.dat
+* app\src\main\assets\QCAR\StonesAndChips.xml
+* app\src\main\assets\QCAR\UserInterface.dat
+* app\src\main\assets\QCAR\UserInterface.xml
+* app\src\main\assets\VuforiaSizzleReel_1.m4v
+* app\src\main\assets\VuforiaSizzleReel_2.m4v
+* app\src\main\assets\bin\
+* app\src\main\assets\bin\Data\
+* app\src\main\assets\bin\Data\0000000000000000f000000000000000
+* app\src\main\assets\bin\Data\0353d7430d945be47b7deb8a9a193983
+* app\src\main\assets\bin\Data\0641bbe71f802496c9e56101f505061d
+* app\src\main\assets\bin\Data\064f774b5c38e6b40b541b3b479ae758
+* app\src\main\assets\bin\Data\09af724328de2044ea06f307dfd72916
+* app\src\main\assets\bin\Data\09f7dba3840514d4f904dce293b57fcf
+* app\src\main\assets\bin\Data\0ac2533fb509f4768a9dae04ebc1385b
+* app\src\main\assets\bin\Data\0d8b3ea4a155c4325bb9b6f9fe1c9775
+* app\src\main\assets\bin\Data\126b46153ce5d504383c8ff120fb860e
+* app\src\main\assets\bin\Data\1287ec8281a40724f8677a0d31891312
+* app\src\main\assets\bin\Data\15ceb878c62ff4c50b6c703431276b77
+* app\src\main\assets\bin\Data\16b900f49c3a2a54cac7a63f97471acd
+* app\src\main\assets\bin\Data\16d96e3a00e43824ba64a156b046a531
+* app\src\main\assets\bin\Data\195c79423ba40514a9cd9f067d98e221
+* app\src\main\assets\bin\Data\1a24c0b09d452480896112782dfd20f7
+* app\src\main\assets\bin\Data\1b8cd493ffe7241f98dd4a9bbf198585
+* app\src\main\assets\bin\Data\1de1635dffdfe4c5ea594458f083a383
+* app\src\main\assets\bin\Data\1edd490a2ce9941089ecf33c43736ca1
+* app\src\main\assets\bin\Data\24990e36e9f944cb7b2c9102a57b595b
+* app\src\main\assets\bin\Data\271c8dffd0b3d2a40a6da8c5b06f0394
+* app\src\main\assets\bin\Data\278282600c6c47e4cb2b53dc2757c7c3
+* app\src\main\assets\bin\Data\2b2ab0743997db44ab3fef6f788971a4
+* app\src\main\assets\bin\Data\2d93177b9da3e0448bbe68b862e9db48
+* app\src\main\assets\bin\Data\31fceb5e02caa4c9c85f17d30ad72f85
+* app\src\main\assets\bin\Data\3504707bf4025bb4ea44aeb54218bb25
+* app\src\main\assets\bin\Data\3974e1e362d653b4bab3f18bcf674a11
+* app\src\main\assets\bin\Data\4275bf8e3de33454a8950634951fef02
+* app\src\main\assets\bin\Data\42c5346e4d5404fc19230517fe460314
+* app\src\main\assets\bin\Data\438d982a54ef548b3afa6c89b8c73373
+* app\src\main\assets\bin\Data\45d54613254174c918e1fd6de7dcdfd8
+* app\src\main\assets\bin\Data\4cac21ae3fcb5894ca2299066c056d0c
+* app\src\main\assets\bin\Data\500a4950cc8bc4b3db90e27cf4e96683
+* app\src\main\assets\bin\Data\55717f15622614b7286c85750385ac11
+* app\src\main\assets\bin\Data\559c38252b82f445f8d8c752f90056ab
+* app\src\main\assets\bin\Data\59fad5f9ab318fc4c9081e8258b61301
+* app\src\main\assets\bin\Data\6145ea19e218ab64798e34419e15f1f5
+* app\src\main\assets\bin\Data\685a396eeb131804a9360ce741da1163
+* app\src\main\assets\bin\Data\6b779edf6cafc471da61d0d3ca5f4a74
+* app\src\main\assets\bin\Data\6c7cf8ce2959b22458cd55adabef16a1
+* app\src\main\assets\bin\Data\6f63072d4806a40de87102d4cd64d998
+* app\src\main\assets\bin\Data\73cdb4dc58d18c1469f062c27f1adaaf
+* app\src\main\assets\bin\Data\73dd848a200c26743952d5bd70c58b5d
+* app\src\main\assets\bin\Data\76348356cbda24fc19872d9f63896282
+* app\src\main\assets\bin\Data\7a4e917242ea64434b18e09827c79ed2
+* app\src\main\assets\bin\Data\7ec8dee98182cee43aaf1145a1d90d00
+* app\src\main\assets\bin\Data\8148bab12d6c4774090c91e96b6507a0
+* app\src\main\assets\bin\Data\86835f2d84ade47b5a50697a554fc931
+* app\src\main\assets\bin\Data\8d2d7987ab8ab7142b6e57a3d5db723c
+* app\src\main\assets\bin\Data\8eab0dabec661824abfe80c11b777b83
+* app\src\main\assets\bin\Data\8f00585a01158074b89d3a4a028e7286
+* app\src\main\assets\bin\Data\912333969d23f9049ae4f66246b5e952
+* app\src\main\assets\bin\Data\925a59be834a647138878c99030c42a9
+* app\src\main\assets\bin\Data\926768dcbfeb3446ab1986cac5f285e7
+* app\src\main\assets\bin\Data\93964bda8aa8bb6408252ae9ac6bb4a2
+* app\src\main\assets\bin\Data\98c608cacecba49998afd91ca34b3a0a
+* app\src\main\assets\bin\Data\98e2bcc51e457ea419e8e1e9d06155f6
+* app\src\main\assets\bin\Data\9a4236c253a159c449e6bc54a40836bd
+* app\src\main\assets\bin\Data\9b2a89c47503f6446986aee7d1a229c9
+* app\src\main\assets\bin\Data\9edd567bfb7d74522b50dd21b6d3a769
+* app\src\main\assets\bin\Data\9f5ae053cae808a48b55d8287d1d8a8a
+* app\src\main\assets\bin\Data\Managed\
+* app\src\main\assets\bin\Data\Managed\Assembly-CSharp-firstpass.dll
+* app\src\main\assets\bin\Data\Managed\Assembly-CSharp.dll
+* app\src\main\assets\bin\Data\Managed\Assembly-UnityScript-firstpass.dll
+* app\src\main\assets\bin\Data\Managed\Assembly-UnityScript.dll
+* app\src\main\assets\bin\Data\Managed\Boo.Lang.dll
+* app\src\main\assets\bin\Data\Managed\Mono.Security.dll
+* app\src\main\assets\bin\Data\Managed\Qualcomm.Vuforia.UnityExtensions.dll
+* app\src\main\assets\bin\Data\Managed\System.Core.dll
+* app\src\main\assets\bin\Data\Managed\System.dll
+* app\src\main\assets\bin\Data\Managed\UnityEngine.Networking.dll
+* app\src\main\assets\bin\Data\Managed\UnityEngine.UI.dll
+* app\src\main\assets\bin\Data\Managed\UnityEngine.dll
+* app\src\main\assets\bin\Data\Managed\UnityEngine.dll.mdb
+* app\src\main\assets\bin\Data\Managed\UnityEngine.xml
+* app\src\main\assets\bin\Data\Managed\mscorlib.dll
+* app\src\main\assets\bin\Data\Resources\
+* app\src\main\assets\bin\Data\Resources\unity_builtin_extra
+* app\src\main\assets\bin\Data\a07d1aa7e785c5c42b299ac0cddcca95
+* app\src\main\assets\bin\Data\a3e94b4f24e01ec4baa6c7274a3cfff7
+* app\src\main\assets\bin\Data\a3f2cc1b02d2d64429626531c257b7fe
+* app\src\main\assets\bin\Data\b5b92d3438a9d4b249bcf7fdcfe3b413
+* app\src\main\assets\bin\Data\b7328f343390446d397dd0c3298cc295
+* app\src\main\assets\bin\Data\b73e38e0d9ba548cbbb04cce503adae8
+* app\src\main\assets\bin\Data\bae8f32c978d2e24f96430c33f222810
+* app\src\main\assets\bin\Data\c0b81ce12e6c1eb43bc11c56cec2555f
+* app\src\main\assets\bin\Data\c2324c50577ab44cf80338344de38276
+* app\src\main\assets\bin\Data\ca76864874476f54b9cd716dcb329edb
+* app\src\main\assets\bin\Data\ccfe25afd7834184eb865c4ae8a8fb43
+* app\src\main\assets\bin\Data\ce85b757d090e45b0bc95e20ce2f889d
+* app\src\main\assets\bin\Data\d1860e11a8701574485cdec855523cad
+* app\src\main\assets\bin\Data\d668ca872ee44b346a5fdced111d888c
+* app\src\main\assets\bin\Data\d68a099a5d2cb9a4cbc4704b802e7b64
+* app\src\main\assets\bin\Data\d83ff315a5ca74a7fa073bde674a1acc
+* app\src\main\assets\bin\Data\dbd63d7adde266b42af51074e86e760d
+* app\src\main\assets\bin\Data\dcb27d265092b6746b23f4ef5ac0d8ee
+* app\src\main\assets\bin\Data\df9c1db97837973439cee21b9fd443df
+* app\src\main\assets\bin\Data\e17a33454a74ba74db0f336408d9ffde
+* app\src\main\assets\bin\Data\e276aa1f98a04584291770ae3f2dce19
+* app\src\main\assets\bin\Data\e4775f9bb9b3b0f4bbfe6fc1f9fa5e0f
+* app\src\main\assets\bin\Data\e7a187325b5f844e4b7a4f00f6e666a3
+* app\src\main\assets\bin\Data\e976de654f0f54c0a93c3c60d80334f5
+* app\src\main\assets\bin\Data\ea6f314e6374b0f4d8c00e1cbd3c710d
+* app\src\main\assets\bin\Data\ef275eb8eb9669949ad0f4a31466e4f2
+* app\src\main\assets\bin\Data\fe0b3476425405d4686dac4630705a6f
+* app\src\main\assets\bin\Data\mainData
+* app\src\main\assets\bin\Data\settings.xml
+* app\src\main\assets\bin\Data\sharedassets0.assets.split0
+* app\src\main\assets\bin\Data\sharedassets0.assets.split1
+* app\src\main\assets\bin\Data\sharedassets0.assets.split10
+* app\src\main\assets\bin\Data\sharedassets0.assets.split11
+* app\src\main\assets\bin\Data\sharedassets0.assets.split12
+* app\src\main\assets\bin\Data\sharedassets0.assets.split13
+* app\src\main\assets\bin\Data\sharedassets0.assets.split14
+* app\src\main\assets\bin\Data\sharedassets0.assets.split15
+* app\src\main\assets\bin\Data\sharedassets0.assets.split16
+* app\src\main\assets\bin\Data\sharedassets0.assets.split17
+* app\src\main\assets\bin\Data\sharedassets0.assets.split18
+* app\src\main\assets\bin\Data\sharedassets0.assets.split19
+* app\src\main\assets\bin\Data\sharedassets0.assets.split2
+* app\src\main\assets\bin\Data\sharedassets0.assets.split20
+* app\src\main\assets\bin\Data\sharedassets0.assets.split21
+* app\src\main\assets\bin\Data\sharedassets0.assets.split22
+* app\src\main\assets\bin\Data\sharedassets0.assets.split23
+* app\src\main\assets\bin\Data\sharedassets0.assets.split24
+* app\src\main\assets\bin\Data\sharedassets0.assets.split25
+* app\src\main\assets\bin\Data\sharedassets0.assets.split26
+* app\src\main\assets\bin\Data\sharedassets0.assets.split27
+* app\src\main\assets\bin\Data\sharedassets0.assets.split28
+* app\src\main\assets\bin\Data\sharedassets0.assets.split29
+* app\src\main\assets\bin\Data\sharedassets0.assets.split3
+* app\src\main\assets\bin\Data\sharedassets0.assets.split30
+* app\src\main\assets\bin\Data\sharedassets0.assets.split31
+* app\src\main\assets\bin\Data\sharedassets0.assets.split32
+* app\src\main\assets\bin\Data\sharedassets0.assets.split33
+* app\src\main\assets\bin\Data\sharedassets0.assets.split34
+* app\src\main\assets\bin\Data\sharedassets0.assets.split35
+* app\src\main\assets\bin\Data\sharedassets0.assets.split36
+* app\src\main\assets\bin\Data\sharedassets0.assets.split37
+* app\src\main\assets\bin\Data\sharedassets0.assets.split38
+* app\src\main\assets\bin\Data\sharedassets0.assets.split39
+* app\src\main\assets\bin\Data\sharedassets0.assets.split4
+* app\src\main\assets\bin\Data\sharedassets0.assets.split40
+* app\src\main\assets\bin\Data\sharedassets0.assets.split41
+* app\src\main\assets\bin\Data\sharedassets0.assets.split42
+* app\src\main\assets\bin\Data\sharedassets0.assets.split43
+* app\src\main\assets\bin\Data\sharedassets0.assets.split44
+* app\src\main\assets\bin\Data\sharedassets0.assets.split45
+* app\src\main\assets\bin\Data\sharedassets0.assets.split46
+* app\src\main\assets\bin\Data\sharedassets0.assets.split47
+* app\src\main\assets\bin\Data\sharedassets0.assets.split48
+* app\src\main\assets\bin\Data\sharedassets0.assets.split49
+* app\src\main\assets\bin\Data\sharedassets0.assets.split5
+* app\src\main\assets\bin\Data\sharedassets0.assets.split50
+* app\src\main\assets\bin\Data\sharedassets0.assets.split51
+* app\src\main\assets\bin\Data\sharedassets0.assets.split52
+* app\src\main\assets\bin\Data\sharedassets0.assets.split53
+* app\src\main\assets\bin\Data\sharedassets0.assets.split54
+* app\src\main\assets\bin\Data\sharedassets0.assets.split55
+* app\src\main\assets\bin\Data\sharedassets0.assets.split56
+* app\src\main\assets\bin\Data\sharedassets0.assets.split57
+* app\src\main\assets\bin\Data\sharedassets0.assets.split58
+* app\src\main\assets\bin\Data\sharedassets0.assets.split59
+* app\src\main\assets\bin\Data\sharedassets0.assets.split6
+* app\src\main\assets\bin\Data\sharedassets0.assets.split60
+* app\src\main\assets\bin\Data\sharedassets0.assets.split61
+* app\src\main\assets\bin\Data\sharedassets0.assets.split62
+* app\src\main\assets\bin\Data\sharedassets0.assets.split63
+* app\src\main\assets\bin\Data\sharedassets0.assets.split64
+* app\src\main\assets\bin\Data\sharedassets0.assets.split7
+* app\src\main\assets\bin\Data\sharedassets0.assets.split8
+* app\src\main\assets\bin\Data\sharedassets0.assets.split9
+* app\src\main\assets\bin\Data\sharedassets0.resource
+* app\src\main\assets\bin\Data\splash.png
+* app\src\main\assets\bin\Data\unity default resources
+* app\src\main\java\
+* app\src\main\java\com\
+* app\src\main\java\com\A2\
+* app\src\main\java\com\A2\A2R\
+* app\src\main\java\com\A2\A2R\UnityPlayerActivity.java
+* app\src\main\java\com\A2\A2R\UnityPlayerNativeActivity.java
+* app\src\main\java\com\A2\A2R\UnityPlayerProxyActivity.java
+* app\src\main\jniLibs\
+* app\src\main\jniLibs\armeabi-v7a\
+* app\src\main\jniLibs\armeabi-v7a\libQCARUnityPlayer.so
+* app\src\main\jniLibs\armeabi-v7a\libQCARWrapper.so
+* app\src\main\jniLibs\armeabi-v7a\libVuforia.so
+* app\src\main\jniLibs\armeabi-v7a\libVuforiaMedia.so
+* app\src\main\jniLibs\armeabi-v7a\libmain.so
+* app\src\main\jniLibs\armeabi-v7a\libmono.so
+* app\src\main\jniLibs\armeabi-v7a\libunity.so
+* app\src\main\res\
+* app\src\main\res\drawable-hdpi\
+* app\src\main\res\drawable-hdpi\app_icon.png
+* app\src\main\res\drawable-ldpi\
+* app\src\main\res\drawable-ldpi\app_icon.png
+* app\src\main\res\drawable-xhdpi\
+* app\src\main\res\drawable-xhdpi\app_banner.png
+* app\src\main\res\drawable-xhdpi\app_icon.png
+* app\src\main\res\drawable-xxhdpi\
+* app\src\main\res\drawable-xxhdpi\app_icon.png
+* app\src\main\res\drawable-xxxhdpi\
+* app\src\main\res\drawable-xxxhdpi\app_icon.png
+* app\src\main\res\drawable\
+* app\src\main\res\drawable\app_icon.png
+* app\src\main\res\values\
+* app\src\main\res\values\strings.xml
+* build.gradle
+* gradle\
+* gradle\wrapper\
+* gradle\wrapper\gradle-wrapper.jar
+* gradle\wrapper\gradle-wrapper.properties
+* gradlew
+* gradlew.bat
+* settings.gradle
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:23.0.1
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets\
+* libs\armeabi-v7a\libmain.so => app\src\main\jniLibs\armeabi-v7a\libmain.so
+* libs\armeabi-v7a\libmono.so => app\src\main\jniLibs\armeabi-v7a\libmono.so
+* libs\armeabi-v7a\libQCARUnityPlayer.so => app\src\main\jniLibs\armeabi-v7a\libQCARUnityPlayer.so
+* libs\armeabi-v7a\libQCARWrapper.so => app\src\main\jniLibs\armeabi-v7a\libQCARWrapper.so
+* libs\armeabi-v7a\libunity.so => app\src\main\jniLibs\armeabi-v7a\libunity.so
+* libs\armeabi-v7a\libVuforia.so => app\src\main\jniLibs\armeabi-v7a\libVuforia.so
+* libs\armeabi-v7a\libVuforiaMedia.so => app\src\main\jniLibs\armeabi-v7a\libVuforiaMedia.so
+* libs\QCARUnityPlayer.jar => app\libs\QCARUnityPlayer.jar
+* libs\UltimateAndroidPlugin.jar => app\libs\UltimateAndroidPlugin.jar
+* libs\unity-classes.jar => app\libs\unity-classes.jar
+* libs\Vuforia.jar => app\libs\Vuforia.jar
+* libs\VuforiaMedia.jar => app\libs\VuforiaMedia.jar
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
